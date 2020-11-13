@@ -6,6 +6,20 @@ $(document).ready(function () {
         // prevent form from flashing and resetting
         event.preventDefault();
 
+        $(".nav-link").click(showTab);
+        $("button").click(updateStyles);
+
+        function updateStyles()
+        {
+            $("body").css("background-color", "pink");
+        }
+
+        function showTab(event)
+        {
+            event.preventDefault();
+            $(this).tab("show");
+        }
+
         var subtotal = 0;
         var soapNames = "";
 

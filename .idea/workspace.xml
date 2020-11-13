@@ -1,9 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8efdd04a-66c1-42b7-bb1a-9c863799e403" name="Default Changelist" comment="Added base JS">
+    <list default="true" id="8efdd04a-66c1-42b7-bb1a-9c863799e403" name="Default Changelist" comment="Updated JS">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pizza_app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +63,8 @@
       <updated>1605116686836</updated>
       <workItem from="1605116687843" duration="178000" />
       <workItem from="1605116906219" duration="9347000" />
-      <workItem from="1605150989220" duration="1225000" />
+      <workItem from="1605150989220" duration="1793000" />
+      <workItem from="1605227332626" duration="1878000" />
     </task>
     <task id="LOCAL-00001" summary="Added forms">
       <created>1605123830486</created>
@@ -60,16 +80,36 @@
       <option name="project" value="LOCAL" />
       <updated>1605134538260</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Updated JS">
+      <created>1605152738410</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605152738410</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added forms" />
     <MESSAGE value="Added base JS" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added base JS" />
+    <MESSAGE value="Updated JS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated JS" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1073" y="430" key="Github.ShareDialog" timestamp="1605121456708">
@@ -80,9 +120,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1007" y="237" key="Github.UntrackedFilesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605121517036" />
-    <state x="-1389" y="266" key="Vcs.Push.Dialog.v2" timestamp="1605134540690">
+    <state x="-1389" y="266" key="Vcs.Push.Dialog.v2" timestamp="1605152740124">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1389" y="266" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605134540690" />
+    <state x="-1389" y="266" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605152740124" />
   </component>
 </project>
