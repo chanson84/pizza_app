@@ -1,19 +1,14 @@
 $(document).ready(function () {
+    $(".nav-link").click(showTab);
     $("input[name=soap]").change(updateButton);
     $("form").submit(placeOrder);
+    $("button").click(updateStyles);
 
     function placeOrder(event) {
         // prevent form from flashing and resetting
-        event.preventDefault();
+        event.preventDefault();}
 
         $(".nav-link").click(showTab);
-        $("button").click(updateStyles);
-
-        function updateStyles()
-        {
-            $("body").css("background-color", "pink");
-        }
-
         function showTab(event)
         {
             event.preventDefault();
@@ -47,7 +42,6 @@ $(document).ready(function () {
         $("#totalOutput").text(orderTotal.toFixed(2));
         // Don't output the tags! Render them as breaks
         $("#soaps").html(soapNames);
-    }
 
     function updateButton() {
         var checkedBoxes = $("input[name=soap]:checked");
