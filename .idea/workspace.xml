@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8efdd04a-66c1-42b7-bb1a-9c863799e403" name="Default Changelist" comment="Updated JS/HTML">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pizza_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pizza_app.js" afterDir="false" />
-    </list>
+    <list default="true" id="8efdd04a-66c1-42b7-bb1a-9c863799e403" name="Default Changelist" comment="Updated JS/HTML" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +62,7 @@
       <workItem from="1605150989220" duration="1793000" />
       <workItem from="1605227332626" duration="3314000" />
       <workItem from="1605292368435" duration="2307000" />
-      <workItem from="1605379811803" duration="814000" />
+      <workItem from="1605379811803" duration="1124000" />
     </task>
     <task id="LOCAL-00001" summary="Added forms">
       <created>1605123830486</created>
@@ -110,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605298626268</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Updated JS/HTML">
+      <created>1605380938590</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605380938590</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
