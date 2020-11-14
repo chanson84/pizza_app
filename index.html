@@ -44,22 +44,22 @@
                 <br>
                 <h2>Crust Type</h2>
                 <h3>Pick Your Crust Type</h3>
-                <input type="radio" name="size" id="crust-thin"  checked="checked">
+                <input type="radio" name="crust" id="crust-thin"  checked="checked">
                 <label for="crust-thin">Thin Crust</label>
 
                 <br>
 
-                <input type="radio" name="size" id="crust-gf" >
+                <input type="radio" name="crust" id="crust-gf" >
                 <label for="crust-gf">Gluten Free Crust</label>
 
                 <br>
 
-                <input type="radio" name="size" id="crust-tossed" >
+                <input type="radio" name="crust" id="crust-tossed" >
                 <label for="crust-tossed">Hand Tossed</label>
 
                 <br>
 
-                <input type="radio" name="size" id="crust-stuffed" >
+                <input type="radio" name="crust" id="crust-stuffed" >
                 <label for="crust-stuffed">Stuffed Crust</label>
 
                 <br>
@@ -128,7 +128,27 @@
         <!-- tab three -->
         <div id="deliveryConfirm" class="tab-pane">
             <h2>Order Summary</h2>
-            <br>
+            <table>
+                <tr>
+                    <td>Pizza Ordered</td>
+                    <td id="size"></td>
+                    <td id="crust"></td>
+                    <td id="meat"></td>
+                    <td id="veggies"></td>
+                </tr>
+                <tr>
+                    <td>Subtotal</td>
+                    <td id="pizzaOutput"></td>
+                </tr>
+                <tr>
+                    <td>Delivery</td>
+                    <td id="shippingOutput"></td>
+                </tr>
+                <tr>
+                    <td>Order Total</td>
+                    <td id="totalOutput"></td>
+                </tr>
+            </table>
             <button><span id="order"></span>Order </button>
         </div>
     </div>

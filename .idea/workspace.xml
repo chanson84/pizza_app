@@ -65,7 +65,8 @@
       <workItem from="1605116906219" duration="9347000" />
       <workItem from="1605150989220" duration="1793000" />
       <workItem from="1605227332626" duration="3314000" />
-      <workItem from="1605292368435" duration="1596000" />
+      <workItem from="1605292368435" duration="2307000" />
+      <workItem from="1605379811803" duration="814000" />
     </task>
     <task id="LOCAL-00001" summary="Added forms">
       <created>1605123830486</created>
@@ -102,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605229571852</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Updated JS/HTML">
+      <created>1605298626268</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605298626268</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,9 +144,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1007" y="237" key="Github.UntrackedFilesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605121517036" />
-    <state x="-1389" y="266" key="Vcs.Push.Dialog.v2" timestamp="1605229589055">
+    <state x="-1389" y="266" key="Vcs.Push.Dialog.v2" timestamp="1605298628022">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1389" y="266" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605229589055" />
+    <state x="-1389" y="266" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605298628022" />
   </component>
 </project>

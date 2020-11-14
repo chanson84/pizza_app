@@ -30,14 +30,17 @@ $(document).ready(function () {
             //   var discount = $(this).data("discount");
         });
 
-        var selectedRadioButton = $("input[name=shipping]:checked");
+        var selectedSize = $("input[name=size]:checked");
+        var selectedCrust = $("input[name=crust]:checked");
+        var selectedMeat = $("input[name=meat]:checked");
+        var selectedVeg = $("input[name=veggies]:checked");
 
         var shippingCost = selectedRadioButton.data("shipping-fee");
 
         var orderTotal = subtotal + shippingCost;
 
         // put total onscreen
-        $("#soapOutput").text(subtotal.toFixed(2));
+        $("#pizzaOutput").text(subtotal.toFixed(2));
         $("#shippingOutput").text(shippingCost.toFixed(2));
         $("#totalOutput").text(orderTotal.toFixed(2));
         // Don't output the tags! Render them as breaks
