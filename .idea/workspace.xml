@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8efdd04a-66c1-42b7-bb1a-9c863799e403" name="Default Changelist" comment="Updated JS/HTML" />
+    <list default="true" id="8efdd04a-66c1-42b7-bb1a-9c863799e403" name="Default Changelist" comment="Updated JS/HTML">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +65,9 @@
       <workItem from="1605150989220" duration="1793000" />
       <workItem from="1605227332626" duration="3314000" />
       <workItem from="1605292368435" duration="2307000" />
-      <workItem from="1605379811803" duration="1124000" />
+      <workItem from="1605379811803" duration="1176000" />
+      <workItem from="1605411155034" duration="595000" />
+      <workItem from="1605468745520" duration="419000" />
     </task>
     <task id="LOCAL-00001" summary="Added forms">
       <created>1605123830486</created>
@@ -113,7 +118,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605380938590</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Updated JS/HTML">
+      <created>1605380968601</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605380968601</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Updated JS/HTML">
+      <created>1605380984911</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605380984911</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,9 +166,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1007" y="237" key="Github.UntrackedFilesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605121517036" />
-    <state x="-1389" y="266" key="Vcs.Push.Dialog.v2" timestamp="1605298628022">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state x="531" y="266" key="Vcs.Push.Dialog.v2" timestamp="1605380986278">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1389" y="266" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605298628022" />
+    <state x="531" y="266" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605380986278" />
   </component>
 </project>
