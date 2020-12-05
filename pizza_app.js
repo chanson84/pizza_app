@@ -2,7 +2,7 @@ $(document).ready(function () {
     $(".nav-link").click(showTab);
     $("input[name=soap]").change(updateButton);
     $("form").submit(placeOrder);
-    $("button").click(updateStyles);
+    $("button").click(updateButton());
 
     function placeOrder(event) {
         // prevent form from flashing and resetting
@@ -19,7 +19,7 @@ $(document).ready(function () {
         var soapNames = "";
 
         // find all the checked boxes
-        var checkedBoxes = $("input[name=soap]:checked");
+        var checkedBoxes = $("input[name=meat]:checked");
 
         // add up their data-price values
         checkedBoxes.each(function () {

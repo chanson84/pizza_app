@@ -1,4 +1,4 @@
 .container {margin: 1px;
  padding: auto;}
-h1, h2, h3 {color: darkgreen;}
-ul li a, td, label {color: darkred;}
+h1, h2, h3, button a {color: darkgreen;}
+ul li a, td, label, button span {color: darkred;}
